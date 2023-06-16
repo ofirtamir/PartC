@@ -1,0 +1,129 @@
+2023.06.14 10:00:00.424 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 10:00:00.427 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 10:00:02.306 INFO  View.Log4J - Program terminated by user
+2023.06.14 10:18:26.172 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 10:18:26.175 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 10:18:29.755 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.14 10:18:41.718 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:20:43.237 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:20:43.241 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:20:47.451 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.14 11:20:53.943 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:21:52.914 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:21:52.917 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:21:56.064 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.14 11:21:56.182 WARN  View.Log4J - Unable to load image.
+2023.06.14 11:22:02.263 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:24:57.128 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:24:57.133 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:25:00.489 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.14 11:25:13.588 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:37:00.391 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:37:00.395 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:37:04.140 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.14 11:37:24.265 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:40:43.889 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:40:43.892 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:40:46.864 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.14 11:41:01.024 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:41:46.659 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:41:46.663 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:41:50.406 INFO  View.Log4J - Created a new 20x20 maze.
+2023.06.14 11:42:00.046 INFO  View.Log4J - Created a new 10x10 maze.
+2023.06.14 11:42:13.084 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:42:18.444 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:42:18.448 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:42:28.898 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.14 11:42:32.507 INFO  View.Log4J - User solved maze. Highscore: 2.
+2023.06.14 11:42:37.479 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:43:22.182 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:43:22.189 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:43:23.484 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:48:13.722 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:48:13.725 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:48:16.422 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:48:33.453 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:48:33.456 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:48:35.009 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:48:47.034 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:48:47.039 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:49:18.804 INFO  View.Log4J - Program terminated by user
+2023.06.14 11:58:33.531 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 11:58:33.534 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 11:58:45.442 INFO  View.Log4J - Program terminated by user
+2023.06.14 12:06:05.223 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 12:06:05.226 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 12:11:51.976 INFO  View.Log4J - Program terminated by user
+2023.06.14 12:11:58.150 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 12:11:58.156 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 12:12:06.444 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.14 12:12:11.141 INFO  View.Log4J - User solved maze. Highscore: 1.
+2023.06.14 12:12:17.811 INFO  View.Log4J - Program terminated by user
+2023.06.14 12:15:46.365 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.14 12:15:46.369 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.14 12:16:26.740 INFO  View.Log4J - SimpleMazeGenerator selected.
+2023.06.14 12:16:44.638 INFO  View.Log4J - Program terminated by user
+2023.06.15 11:39:42.966 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.15 11:39:42.970 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.15 11:39:49.698 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.15 11:40:00.971 INFO  View.Log4J - User solved maze. Highscore: 13.
+2023.06.15 11:40:08.306 INFO  View.Log4J - Program terminated by user
+2023.06.15 11:48:21.611 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.15 11:48:21.614 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.15 11:48:25.250 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.15 11:48:36.103 INFO  View.Log4J - User solved maze. Highscore: 18.
+2023.06.15 11:48:56.361 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.15 11:49:24.925 INFO  View.Log4J - Program terminated by user
+2023.06.15 11:49:53.277 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.15 11:49:53.279 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.15 11:49:57.564 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.15 11:50:07.113 INFO  View.Log4J - User solved maze. Highscore: 8.
+2023.06.15 11:50:18.062 INFO  View.Log4J - Program terminated by user
+2023.06.15 11:51:28.735 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.15 11:51:28.738 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.15 11:51:56.474 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.15 11:51:56.478 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.15 11:57:08.252 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.15 11:57:08.255 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.15 11:57:17.837 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:19.145 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:19.573 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:21.012 INFO  View.Log4J - SimpleMazeGenerator selected.
+2023.06.15 11:57:21.885 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:25.644 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:26.196 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:26.504 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:27.800 INFO  View.Log4J - DepthFirstSearch selected.
+2023.06.15 11:57:28.637 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:28.810 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:28.983 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:29.701 INFO  View.Log4J - BestFirstSearch selected.
+2023.06.15 11:57:30.085 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:30.459 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:30.643 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:31.695 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:34.457 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:40.238 INFO  View.Log4J - Created a new 10x10 maze.
+2023.06.15 11:57:43.875 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:47.143 INFO  View.Log4J - BreadthFirstSearch selected.
+2023.06.15 11:57:47.655 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:48.175 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:49.561 INFO  View.Log4J - SimpleMazeGenerator selected.
+2023.06.15 11:57:50.411 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:50.841 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:51.006 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:51.173 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:52.566 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:52.751 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:53.245 INFO  View.Log4J - BestFirstSearch selected.
+2023.06.15 11:57:53.959 INFO  View.Log4J - DepthFirstSearch selected.
+2023.06.15 11:57:54.689 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:54.982 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:57:55.573 INFO  View.Log4J - BestFirstSearch selected.
+2023.06.15 11:57:55.926 INFO  View.Log4J - Threadpool size changed.
+2023.06.15 11:58:08.412 INFO  View.Log4J - User solved maze. Highscore: 29.
+2023.06.15 11:58:14.378 INFO  View.Log4J - Program terminated by user
+2023.06.16 09:52:20.598 INFO  View.Log4J - Maze generating server connected via port 5400.
+2023.06.16 09:52:20.603 INFO  View.Log4J - Maze solving server connected via port 5401.
+2023.06.16 09:52:29.185 INFO  View.Log4J - Created a new 5x5 maze.
+2023.06.16 09:52:37.015 INFO  View.Log4J - Program terminated by user
